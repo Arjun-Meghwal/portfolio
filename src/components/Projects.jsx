@@ -149,7 +149,7 @@ function ProjectsComponent() {
           },
           {
             type: "demo",
-            href: "https://portfolio-arjun22.vercel.app/",
+            href: "https://ev-battery-git-main-arjun22.vercel.app/",
           },
 
         ],
