@@ -125,6 +125,10 @@ function ProjectsComponent() {
             type: "code",
             href: "https://github.com/Arjun-Meghwal",
           },
+          {
+            type: "demo",
+            href: "https://ev-battery-eight.vercel.app/",
+          },
         ],
       },
 
